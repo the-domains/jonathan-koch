@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T22:28:26.248Z'
+datePublished: '2016-06-16T22:48:43.281Z'
 sourcePath: >-
   _posts/2016-04-16-forget-the-salt-these-4-out-of-the-box-tricks-will-make-you.md
 inFeed: true
@@ -19,7 +19,7 @@ keywords:
   - spence
 related: []
 author: []
-dateModified: '2016-06-16T22:28:25.841Z'
+dateModified: '2016-06-16T22:48:42.875Z'
 title: >-
   Forget the salt: These 4 out-of-the-box tricks will make your food taste
   better
@@ -35,7 +35,7 @@ description: >-
   better - without adding a single ingredient.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
