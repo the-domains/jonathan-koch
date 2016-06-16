@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T22:28:26.251Z'
+datePublished: '2016-06-16T22:48:32.784Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -22,7 +22,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-16T22:28:25.841Z'
+dateModified: '2016-06-16T22:48:32.343Z'
 title: 'Happy Happy Joy Joy, Amsterdam, Netherlands'
 app_links: []
 publisher:
@@ -37,7 +37,7 @@ description: >-
   as loose and playful as its name implies.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
