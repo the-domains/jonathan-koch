@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T22:48:35.479Z'
+datePublished: '2016-06-16T22:49:57.620Z'
 sourcePath: _posts/2016-04-16-colorados-woody-creek-distillers.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/woody-creek-distillers-colorado'
@@ -17,7 +17,7 @@ keywords:
   - small-batch
 related: []
 author: []
-dateModified: '2016-06-16T22:48:35.207Z'
+dateModified: '2016-06-16T22:49:57.330Z'
 title: Colorado's Woody Creek Distillers
 app_links: []
 publisher:
@@ -35,7 +35,7 @@ description: >-
   Colorado Straight Rye.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
