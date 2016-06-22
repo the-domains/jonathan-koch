@@ -1,14 +1,14 @@
-layout_spectrum: 0.9450678962748498
-typography_spectrum: 0.5816217747051269
+layout_spectrum: 0.4646925344131887
+typography_spectrum: 0.5917659825645387
 color:
-  brandStrength: 0.7797870447393507
-  lightness: 0.6863788694608957
-  saturation: 0.4809504570439458
-  rhythmicContrast: 0.5689896778203547
+  brandStrength: 0.40015939669683576
+  lightness: 0.8039173665456474
+  saturation: 0.5948005435056984
+  rhythmicContrast: 0.24155436945147812
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: jonathan-koch
