@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-16T22:48:43.281Z'
+datePublished: '2016-06-23T07:23:57.628Z'
 sourcePath: >-
   _posts/2016-04-16-forget-the-salt-these-4-out-of-the-box-tricks-will-make-you.md
 inFeed: true
@@ -19,10 +19,10 @@ keywords:
   - spence
 related: []
 author: []
-dateModified: '2016-06-16T22:48:42.875Z'
+dateModified: '2016-06-23T07:23:51.861Z'
 title: >-
   Forget the salt: These 4 out-of-the-box tricks will make your food taste
-  better
+  better [EDITED]
 app_links: []
 publisher:
   url: 'http://mashable.com'
@@ -40,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Forget the salt: These 4 out-of-the-box tricks will make your food taste better</h1><p>Oh no. You forgot to add the fresh ginger to the kung pao. Don't stress! Even if you forgot a key spice or sauce, you actually can make your food taste better - without adding a single ingredient.</p><img src="http://rack.2.mshcdn.com/media/ZgkyMDE2LzA0LzAyL2RhL3RhY29zLmRlYjExLmpwZwpwCXRodW1iCTEyMDB4NjMwCmUJanBn/e2796378/238/tacos.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8d4187abae1f1fa0ce91fca29aa06901098f5f2.jpg" /><h1>Forget the salt: These 4 out-of-the-box tricks will make your food taste better [EDITED]</h1><p>Oh no. You forgot to add the fresh ginger to the kung pao. Don't stress! Even if you forgot a key spice or sauce, you actually can make your food taste better - without adding a single ingredient.</p></article>
