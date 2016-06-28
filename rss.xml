@@ -4,7 +4,7 @@
         <description><![CDATA[The Wire]]></description>
         <link>https://thegrid.ai/jonathan-koch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 15:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 15:09:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonathan-koch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Coolest Tech at SXSW – Some Stuff [EDITED]]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Thu, 16 Jun 2016 22:49:57 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[this is a title]]></title>
+            <description><![CDATA[<article><h1>this is a title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce7319c4-a572-43ac-9d63-816b1d335eb1.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/eero-wifi-that-works</link>
+            <guid isPermaLink="false">93661b46-e82e-4d60-9f71-4b825d967089</guid>
+            <pubDate>Tue, 28 Jun 2016 15:09:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Atmo Sfera Platterless Turntable Spins Vinyl in the Air]]></title>
             <description><![CDATA[<article><h1>Atmo Sfera Platterless Turntable Spins Vinyl in the Air</h1><p>Chicago's Gramovox already defied gravity with their vertical Floating Record Player, and now Italian start-up Audio Deva offers their own "upside-down" take on a turntable. It eschews the basic design that has "remained the same for about a century."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ae49d462c43b77b61bf0ccd0b17f7ca6c7acdd9.png"></article>]]></description>
             <link>http://www.coolhunting.com/tech/platterless-turntable-atmo-sfera-record-player-kickstarter</link>
@@ -68,13 +75,6 @@
             <link>http://www.skydivemag.com/video/phoenixfly-backfly-cosmonauts-paracentru</link>
             <guid isPermaLink="false">8aa4d967-98ca-4533-96d7-dd98aae3cdf6</guid>
             <pubDate>Thu, 23 Jun 2016 05:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[33 Women Doing Amazing Things in Graphic Design [EDITED]]]></title>
-            <description><![CDATA[<article><h1>33 Women Doing Amazing Things in Graphic Design [EDITED]</h1><p>These talented women have unleashed their creativity and skills on the world of graphic design. Paula Scher is an American graphic designer, illustrator, and educator, and the first female Principal at . She started experimenting with typography in the early 1980s and looked to historic design sources such as Russian Constructivism, obscure and little-used typefaces, and her seemingly unlimited imagination.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e85329cddeafe6412d13718e9c505bbfd5d0969b.jpg"></article>]]></description>
-            <link>https://designschool.canva.com/blog/women-graphic-designers/</link>
-            <guid isPermaLink="false">011a5822-67e5-482f-bb06-f48a3c24a7c6</guid>
-            <pubDate>Thu, 23 Jun 2016 05:24:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
