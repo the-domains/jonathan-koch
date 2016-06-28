@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-28T14:19:52.470Z'
+datePublished: '2016-06-28T14:51:02.912Z'
 sourcePath: >-
   _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 inFeed: true
@@ -22,8 +22,8 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-28T13:31:33.449Z'
-title: Happy Happy hi there
+dateModified: '2016-06-28T14:50:53.533Z'
+title: Happy Happy ELEL
 app_links: []
 publisher:
   name: Wallpaper*
@@ -42,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60a826db0cfed461ded0078091f5410155392471.jpg" /><h1>Happy Happy hi there</h1><p>Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60a826db0cfed461ded0078091f5410155392471.jpg" /><h1>Happy Happy ELEL</h1><p>Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies.</p></article>
