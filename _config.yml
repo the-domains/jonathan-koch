@@ -16,10 +16,6 @@ style: the-composer
 title: Welcome to CTA Land!
 description: Where the buttons click better.
 purpose:
-  - id: c1352188-3ac4-4180-b3df-e5f57b0e66a4
-    type: phone
-    value: 0800-THEGRID
-    label: Call 0800-THEGRID
   - id: a2d8e3b9-44e2-40df-941b-21390284622e
     type: external
     value: www.google.com
