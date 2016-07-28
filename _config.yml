@@ -1,6 +1,4 @@
-layout_spectrum: 0.13834310346283019
 typography_spectrum: 0.38771904283203185
-style: the-composer
 color:
   brandStrength: 0.45965749281458557
   lightness: 0.7000490240752697
@@ -12,5 +10,8 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-name: jonathan-koch
+layout_spectrum: 0.13834310346283019
+name: The Wire.
+style: the-composer
 title: Welcome to CTA Land!
+description: Where the buttons click better.
