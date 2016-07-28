@@ -15,8 +15,4 @@ name: The Wire.
 style: the-composer
 title: Welcome to CTA Land!
 description: Where the buttons click better.
-purpose:
-  - id: c1352188-3ac4-4180-b3df-e5f57b0e66a4
-    type: phone
-    value: 0800-THEGRID
-    label: Call 0800-THEGRID
+purpose: []
