@@ -20,3 +20,7 @@ purpose:
     type: phone
     value: 0800-THEGRID
     label: Call 0800-THEGRID
+  - id: 048b1505-b0eb-40c9-89b7-d32d0f246e25
+    type: external
+    value: www.google.com
+    label: Google
