@@ -24,3 +24,7 @@ purpose:
     type: external
     value: www.google.com
     label: Search something
+  - id: 7c28aaa2-fd65-4a5f-9e78-9f2a9284b60d
+    type: phone
+    value: 0800-THEGRID
+    label: Call 0800-THEGRID
